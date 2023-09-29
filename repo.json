@@ -2,5 +2,9 @@
     "0": {
         "ids": ["mal_cord", "MalCord"],
         "git_url": "https://github.com/Goldy-Bot/mal_cord"
+    },
+    "1": {
+        "ids": ["aghpb_cord"],
+        "git_url": "https://github.com/Goldy-Bot/aghpb_cord"
     }
 }
