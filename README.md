@@ -8,7 +8,7 @@
   | ------------- | ------------- |
   | ``mal_cord``  |  https://github.com/Goldy-Bot/mal_cord |
   | ``aghpb_cord``  |  https://github.com/Goldy-Bot/aghpb_cord |
-  | ``fun++``  |  https://github.com/Goldy-Bot/fun_plus_plus |
+  | ``fun_plus_plus``  |  https://github.com/Goldy-Bot/fun_plus_plus |
   | ``timestamps``  |  https://github.com/Goldy-Bot/timestamps |
 
 </div>
