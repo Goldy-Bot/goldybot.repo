@@ -16,6 +16,10 @@
         {
             "id": "timestamps",
             "git_url": "https://github.com/Goldy-Bot/timestamps"
-        } 
+        },
+        {
+            "id": "osu",
+            "git_url": "https://github.com/Goldy-Bot/osu"
+        }
     ]
 }
