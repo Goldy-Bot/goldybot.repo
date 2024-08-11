@@ -6,3 +6,8 @@ aghpb_cord = "https://github.com/Goldy-Bot/aghpb_cord"
 fun_plus_plus = "https://github.com/Goldy-Bot/fun_plus_plus"
 timestamps = "https://github.com/Goldy-Bot/timestamps"
 osu = "https://github.com/Goldy-Bot/osu"
+
+# Extenstions should now use kebab-casing
+mal-cord = "https://github.com/Goldy-Bot/mal-cord"
+aghpb-cord = "https://github.com/Goldy-Bot/aghpb-cord"
+fun-plus-plus = "https://github.com/Goldy-Bot/fun-plus-plus"
