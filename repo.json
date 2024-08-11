@@ -3,15 +3,15 @@
     "extensions": [
         {
             "id": "mal_cord",
-            "git_url": "https://github.com/Goldy-Bot/mal_cord"
+            "git_url": "https://github.com/Goldy-Bot/mal-cord"
         },
         {
             "id": "aghpb_cord",
-            "git_url": "https://github.com/Goldy-Bot/aghpb_cord"
+            "git_url": "https://github.com/Goldy-Bot/aghpb-cord"
         },
         {
             "id": "fun_plus_plus",
-            "git_url": "https://github.com/Goldy-Bot/fun_plus_plus"
+            "git_url": "https://github.com/Goldy-Bot/fun-plus-plus"
         },
         {
             "id": "timestamps",
