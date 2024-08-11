@@ -1,13 +1,14 @@
 version = 2
 
 [extensions]
-mal_cord = "https://github.com/Goldy-Bot/mal_cord"
-aghpb_cord = "https://github.com/Goldy-Bot/aghpb_cord"
-fun_plus_plus = "https://github.com/Goldy-Bot/fun_plus_plus"
-timestamps = "https://github.com/Goldy-Bot/timestamps"
-osu = "https://github.com/Goldy-Bot/osu"
+mal_cord = "https://github.com/Goldy-Bot/mal-cord"
+aghpb_cord = "https://github.com/Goldy-Bot/aghpb-cord"
+fun_plus_plus = "https://github.com/Goldy-Bot/fun-plus-plus"
 
 # Extenstions should now use kebab-casing
 mal-cord = "https://github.com/Goldy-Bot/mal-cord"
 aghpb-cord = "https://github.com/Goldy-Bot/aghpb-cord"
 fun-plus-plus = "https://github.com/Goldy-Bot/fun-plus-plus"
+
+osu = "https://github.com/Goldy-Bot/osu"
+timestamps = "https://github.com/Goldy-Bot/timestamps"
